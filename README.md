@@ -22,6 +22,6 @@ I like building things that sit at the intersection of intelligence, security, a
 ![](https://github-contributor-stats.vercel.app/api?username=BipinRajC&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=BipinRajC&icon=0&color=12)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=BipinRajC&color=50fa7b)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
